@@ -1,4 +1,6 @@
-http://www.aliciainasmalltown.com/
+![image](https://user-images.githubusercontent.com/95340862/149310219-2785f035-a0cd-40da-96d9-918936462ded.png)  ![image](https://user-images.githubusercontent.com/95340862/149311086-4a76b5b9-8981-4c1b-b493-2a817c571c48.png) ![image](https://user-images.githubusercontent.com/95340862/149313363-263fa931-5602-4bec-9d63-8d7352ccd7c9.png)
+
+                                                        
 
 
 <h1 align="center">Hi 👋, I'm Geetha O S</h1>
@@ -6,7 +8,8 @@ http://www.aliciainasmalltown.com/
 
 - 🌱 I’m currently learning **Python and Cloud computing**
 
-- 📫 How to reach me **geethas8088@gmail.com**
+- 📫 How to reach me **geethas8088@gmail.com**                                                                                     
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
