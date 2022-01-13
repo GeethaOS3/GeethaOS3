@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geetha O S.
+-                                                 👋 Hi, I’m @Geetha O S.
 
 
         A PASSIONATE LEARNER. I'm a pre final year student pursing in BE in ECE from GEC Hassan.I am always seeking to work and
